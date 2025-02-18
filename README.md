@@ -1,4 +1,4 @@
-##Hi there 👋
+## Hi there 👋
 
 I am a 21 year old student in my third year of Computer Science BSc at Oxford Brookes University after having gained A-Levels in Maths (Grade C), Computer Science (Grade C) and Physics (Grade C). I am extremely computer literate and I have gained A and A+ grades across my wide variety of modules including  Artificial Intelligence, Software Engineering, and Machine Learning, using languages such as: Python, C, C#, C++, Java, and SQL. I am looking for a job in the Computing or IT industry, preferably software engineering/development. Coding is something I am very passionate about, and I would love to master my skills in the workplace.
 
